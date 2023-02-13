@@ -22,7 +22,7 @@ require (
 	github.com/revel/log15 v2.11.20+incompatible // indirect
 	github.com/revel/pathtree v0.0.0-20140121041023-41257a1839e9 // indirect
 	github.com/revel/revel v0.21.0
-	github.com/twinj/uuid v1.0.0 // indirect
+	github.com/google/uuid v1.0.0 // indirect
 	github.com/tylerb/gls v0.0.0-20150407001822-e606233f194d
 	github.com/tylerb/is v2.1.4+incompatible // indirect
 	github.com/valyala/fasthttp v1.34.0
